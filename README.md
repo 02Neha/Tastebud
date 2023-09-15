@@ -3,7 +3,7 @@
 
 
 
-![Logo](C:\Users\neha1\Downloads\fruitkha-1.0.0\tastebud\assets\img\logo.png)
+![Logo](http://127.0.0.1:5500/assets/img/logo.png.preview)
 
 ## Image in project
 
