@@ -10,6 +10,10 @@ Welcome to Tastebud, where every click takes you closer to a garden-fresh paradi
 
 ![Screenshot 2023-09-09 191826](https://github.com/02Neha/Tastebud/assets/95375309/4841ebca-9c9c-4628-ac97-f495ff1e4118)
 
+Tastebud's mission is to revolutionize how you shop for vegetables. We've sculpted an online platform that blends convenience, choice, and quality. We aim to make buying vegetables online as refreshing as plucking them from your own garden.
+
+
+
 
 
 
