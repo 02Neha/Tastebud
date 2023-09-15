@@ -12,6 +12,8 @@ Welcome to Tastebud, where every click takes you closer to a garden-fresh paradi
 
 Tastebud's mission is to revolutionize how you shop for vegetables. We've sculpted an online platform that blends convenience, choice, and quality. We aim to make buying vegetables online as refreshing as plucking them from your own garden.
 
+![Screenshot 2023-09-09 191928](https://github.com/02Neha/Tastebud/assets/95375309/ad1caeb6-ca9e-463d-a973-f7d99682e59b)
+
 
 
 
